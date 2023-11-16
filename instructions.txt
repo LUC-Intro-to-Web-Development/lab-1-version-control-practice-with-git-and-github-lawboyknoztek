@@ -1,7 +1,6 @@
 [![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-718a45dd9cf7e7f842a935f5ebbe5719a5e09af4491e668f4dbf3b35d5cca122.svg)](https://classroom.github.com/online_ide?assignment_repo_id=12705883&assignment_repo_type=AssignmentRepo)
-# /Lab 1 Full-stack Nodejs Boxing Stat AppVersion Control/
-## // * "This application will display boxing data on current and previous boxing professionals.  Lab 1 is focused on project set-up and version control.  Lab 2 focuses on working with Express framework the user to Create, Retrieve, Update and Delete Boxing data."//
- Practice with Git and GitHub
+
+# Lab 1 Version Control Practice with Git and GitHub
 
 **Directions**
 This lab consist of 5 deliverables that will require you to fulfill a series of steps.  It might be helpful to print off this document as you fulfill the 5 deliverables.  
